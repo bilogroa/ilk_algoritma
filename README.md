@@ -12,4 +12,5 @@ programlama temelleri dersindeki ilk dijital kaydım (02.11.2026)
     Adım4: Ekrana yaz (mesaj)
     Adım5: Dur
 ## akış şeması
-    <img width="122" height="397" alt="ilk_akis" src="https://github.com/user-attachments/assets/2beb7778-1b92-46fa-8b15-da0f36850811" />
+    <img width="122" height="397" alt="ilk_akis" src="https://github.com/user-attachments/assets/2beb7778-1b92-46fa-8b15-da0f36850811" /
+ 
